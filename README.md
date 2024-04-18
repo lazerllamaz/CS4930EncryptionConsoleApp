@@ -6,6 +6,8 @@ Needs lots of cleaning up, initial version
 For one user the ports need to be 
         int sourcePort = 50001;
         int destPort = 50002;
+
+        
 For the other user ports need to be
         int sourcePort = 50002;
         int destPort = 50001;
